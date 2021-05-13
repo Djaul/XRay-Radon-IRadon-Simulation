@@ -1,0 +1,1 @@
+Open mygui.fig or mygui.m and run
